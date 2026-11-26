@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /makhiluxurytaps/checkout/
+Disallow: /makhiluxurytaps/account/
+Sitemap: https://demo.pixelcode.co.za/makhiluxurytaps/sitemap.xml
